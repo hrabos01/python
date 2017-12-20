@@ -1,0 +1,2 @@
+# python
+start púrojektu Python
