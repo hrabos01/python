@@ -1,2 +1,3 @@
 # python
-start púrojektu Python
+start projektu Python vyuka
+
